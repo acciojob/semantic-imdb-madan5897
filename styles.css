@@ -9,24 +9,19 @@ h1{
     color: deeppink;
     padding: 5px;
     background-color: black;
+    text-align: center;
 }
 
 nav{
     background-color: aquamarine;
     border-left: 8px solid pink;
+    padding: 8px;
 }
 
-nav ul{
-    list-style-type: none;
-    display: flex;
-}
-nav ul li{
-    padding: 3px;
-    margin: 5px 5px;
-}
 
-nav ul li a{
+nav a{
     text-decoration: none;
+    padding: 5px;
 }
 
 summary{
